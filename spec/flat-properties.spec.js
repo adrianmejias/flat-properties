@@ -101,7 +101,7 @@ describe('model-helpers.js', function () {
     });
     it('should return the data flatted without error', function () {
       const dataExpect = {
-        cardNumber: '2222-xxxx-xxxxx-232',
+        cardNumber: '2222-xxxx-xxxxx-2323',
         clientName: 'fulano',
         clientDepartment: 'xyz'
       };
